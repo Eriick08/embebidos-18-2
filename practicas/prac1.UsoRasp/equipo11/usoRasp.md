@@ -2,7 +2,7 @@
 En esta práctica vimos como cargar el sistema operativo de Rapbian en Raspberry y como utilizar la Raspberry por **SSH**, **VNC** y **UART**.
 
 ##**SSH**
-![ Iimagen con ssh](/home/erick/embebidos-18-2/practicas/prac1.UsoRasp/equipo11/SSH.jpg)
+![ Iimagen con ssh](https://github.com/Eriick08/embebidos-18-2/blob/master/practicas/prac1.UsoRasp/equipo11/SSH.jpg)
 
 
 ##**vnc**
