@@ -14,9 +14,9 @@ En esta práctica vimos como cargar el sistema operativo de Rapbian en Raspberry
 
 ### **Nombres**:
 Manzano Nava Erick.
- 
+ Mejía Mendoza Diana Laura
  Rubio Morin Raymundo.
   
-  **Equipo 11**
+  **Equipo 12**
 
 
